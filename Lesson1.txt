@@ -26,3 +26,7 @@ Appium Architecture 3/156  Section: 1
 Appium Client code------>Appium Server---->UI Automator2---->Android
                                       ---->XCUITest     ---->IOS
 
+-------------------------------------------------------------------
+Appium Installation 4/156 Section: 2
+====================================
+
