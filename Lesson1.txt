@@ -1,0 +1,15 @@
+Appium    2/156
+++++++++++
+
+Open source Mobile Automation tool
+The only cross-platform test supporting tool
+Works for native, hybrid and mobile web apps
+Supports WebDriver API-Selenium Family
+
+
+Supported Platforms
+-------------------
+IOS
+Android
+Firefos OS
+
