@@ -1,4 +1,4 @@
-Appium    2/156
+Appium    2/156  Section: 1
 ++++++++++
 
 Open source Mobile Automation tool
@@ -12,4 +12,17 @@ Supported Platforms
 IOS
 Android
 Firefos OS
+
+you can write your code in any lnaguage
+
+IDE: Eclipse
+
+
+----------------------------------------------------------------
+Appium Architecture 3/156  Section: 1
+==========================
+
+
+Appium Client code------>Appium Server---->UI Automator2---->Android
+                                      ---->XCUITest     ---->IOS
 
